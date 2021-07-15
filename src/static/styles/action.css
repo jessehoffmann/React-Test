@@ -1,0 +1,27 @@
+.action-title {
+  text-align: center;
+}
+
+.flex-box {
+  display: flex;
+  align-items: center;
+}
+
+.character-flex-item {
+  flex: 1;
+  text-align: center;
+}
+
+.action-data-table {
+  margin-top: 40px;
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px;
+}
